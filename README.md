@@ -1,3 +1,13 @@
+# LeetCode Solutions 🚀
+
+My C++ solutions to LeetCode problems, focused on Data Structures, Algorithms, and problem solving.
+
+## 🎯 Goal
+
+To improve my DSA fundamentals, problem-solving skills, and understanding of efficient algorithms.
+
+---
+
 # leetcode
 question are solving on leetcode 
 
